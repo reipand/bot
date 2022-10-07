@@ -1,0 +1,61 @@
+{
+    "token":"OTY1MDg5NDk5MTQxMDA5NDI4.GQlm1w.tGcdxQCXzRa9U_VZ8V7tNmhctRGmBypZKMrrT0",
+    "prefix_bot": ".",
+    "sbar_color": "#fff34",
+    "customer_role": "",
+    "antilink_status": "true",
+    "announcement_ch": "1027382676627394680",
+
+    "stock": {
+        "item1": {
+            "nama": "licensi-pandora",
+            "status": "no restock",
+            "jumlah": "0"
+        },
+        "item2": {
+            "nama": "",
+            "status": "",
+            "jumlah": ""
+        },
+        "item3": {
+            "nama": "",
+            "status": "",
+            "jumlah": ""
+        },
+        "item4": {
+            "nama": "",
+            "status": "",
+            "jumlah": ""
+        },
+        "item5": {
+            "nama": "",
+            "status": "",
+            "jumlah": ""
+        },
+        "item6": {
+            "nama": "",
+            "status": "",
+            "jumlah": ""
+        },
+        "item7": {
+            "nama": "",
+            "status": "",
+            "jumlah": ""
+        },
+        "item8": {
+            "nama": "",
+            "status": "",
+            "jumlah": ""
+        },
+        "item9": {
+            "nama": "",
+            "status": "",
+            "jumlah": ""
+        },
+        "item10": {
+            "nama": "",
+            "status": "",
+            "jumlah": ""
+        }
+    }
+}

@@ -1,0 +1,13 @@
+Hi, disini gw bakal kasih tau
+bagaimana cara setup konfigurasi untuk bot kamu
+
+isi semua value json sesuai dengan perintah dibawah
+
+{
+    "token":"", < bot token
+    "prefix_bot": "", < prefix untuk menjalankan perintah bot (default : "." (titik))
+    "sbar_color": "", < ini untuk warna embed (kamu harus pakai hex color // search gooogle "Color picker")
+    "customer_role": "", < isi dengan role id customer di server kamu
+    "antilink_status": "", < isi dengan true atau false (antilink > menghapus semua tipe link yang berkaitan dengan proto http / https)
+    "announcement_ch": "" < isi dengan channel id sesuai announcement channel di server kamu
+}
